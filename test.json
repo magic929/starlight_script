@@ -1,0 +1,33 @@
+{
+    "boss": 40,
+    "team":[
+        {
+            "id": "name1",
+            "damage": 2
+        },
+        {
+            "id": "name2",
+            "damage": 9
+        },
+        {
+            "id": "name3",
+            "damage": 5
+        },
+        {
+            "id": "name4",
+            "damage": 7
+        },
+        {
+            "id": "name5",
+            "damage": 4
+        },
+        {
+            "id": "name6",
+            "damage": 11
+        },
+        {
+            "id": "name7",
+            "damage": 10
+        }
+    ]
+}
